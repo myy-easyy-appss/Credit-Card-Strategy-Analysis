@@ -66,5 +66,18 @@ Two tables were used:
 
 ---
 
-## 📁 Folder Structure
+
+---
+
+## 🙌 Acknowledgements
+
+- Project inspired by the **Codebasics Resume Project Challenge**
+- Case simulated by AtliQ Data Services for Mitron Bank (fictional case)
+- Created by **Bhavani Maroju**
+
+---
+
+
+
+
 
